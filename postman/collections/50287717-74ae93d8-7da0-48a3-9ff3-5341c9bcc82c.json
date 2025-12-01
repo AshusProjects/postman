@@ -538,30 +538,6 @@
 					"body": null
 				}
 			]
-		},
-		{
-			"name": "New Request",
-			"id": "50287717-fbeb13d1-2be0-40ba-a6c5-f150fabd2ec0",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
-			"request": {
-				"method": "GET",
-				"header": []
-			},
-			"response": []
-		},
-		{
-			"name": "New Request",
-			"id": "50287717-919d88a2-2fec-49a1-8e45-35ad31a4de76",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
-			"request": {
-				"method": "GET",
-				"header": []
-			},
-			"response": []
 		}
 	]
 }
