@@ -521,6 +521,18 @@
 					"body": null
 				}
 			]
+		},
+		{
+			"name": "New Request",
+			"id": "50287717-966d18ae-6d7c-456b-9188-a48cb938d0a1",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
 		}
 	]
 }
